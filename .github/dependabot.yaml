@@ -1,7 +1,7 @@
 version: 2
 updates:
   - package-ecosystem: "docker"
-    directory: "foo"
+    directory: "foo/templates"
     registries: "*"
     schedule:
       interval: "daily"
