@@ -6,7 +6,7 @@ This project is an experiment to integrate Dependabot with a Helm chart reposito
 Related repository: https://github.com/mbtamuli/dependabot-experiment-image
 
 ## Output
-🔍 See this PR - [Bump mbtamuli/dependabot-experiment-image from v0.0.1 to v0.0.2 in /foo](https://github.com/mbtamuli/dependabot-experiment-chart/pull/1), which updates the chart when the docker image referenced has a new release
+🔍 See this PR - [Bump mbtamuli/dependabot-experiment-image from v0.0.1 to v0.0.3 in /foo](https://github.com/mbtamuli/dependabot-experiment-chart/pull/2), which updates the chart when the docker image referenced has a new release
 
 ## References
 - [Blog post](https://github.blog/changelog/2022-11-16-dependabot-version-updates-for-docker-image-tags-in-kubernetes-manifests/)
