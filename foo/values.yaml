@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: ghcr.io/mbtamuli/dependabot-experiment-image
-  tag: "v0.0.1"
+  tag: "v0.0.3"
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
